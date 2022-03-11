@@ -1,6 +1,6 @@
 //西浦居家健康监测自动补全-JavaScript
 //For XJTLUer only
-//Author: Fuse
+//Author: SYXiao2002
 
 alert("此脚本仅为自动填充、方便填写为目的，您仍需真实填报相关信息!");
 openCityBox(document.getElementById('q3'),3,event,3);
